@@ -7,6 +7,10 @@ It can be downloaded from the [python.org](https://www.python.org/)
 3) Change to a directory where you would like to store the cloned directory
 4) Type `git clone` and paste the URL that you have copy earlier
 
+### To download the file as zip
+1) Click Code
+2) CLick Download zip
+3) Unzip it
 
 ### To run the file
 1) Open up the Command Prompt
